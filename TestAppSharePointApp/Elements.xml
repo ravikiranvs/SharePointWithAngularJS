@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="RootModule">
+    <File Path="SPCommon\sp-resource.js" Url="SPCommon/sp-resource.js" ReplaceContent="TRUE" />
+    <File Path="SPCommon\sp-notification.js" Url="SPCommon/sp-notification.js" ReplaceContent="TRUE" />
+    <File Path="SPCommon\sp-modal.js" Url="SPCommon/sp-modal.js" ReplaceContent="TRUE" />
+    <File Path="SPCommon\sp-data.js" Url="SPCommon/sp-data.js" ReplaceContent="TRUE" />
+    <File Path="SPCommon\SPControls\SPPeoplePicker\sp-people-picker.js" Url="SPCommon/SPControls/SPPeoplePicker/sp-people-picker.js" ReplaceContent="TRUE" />
+    <File Path="SPCommon\SPControls\SPList\sp-list-view.js" Url="SPCommon/SPControls/SPList/sp-list-view.js" ReplaceContent="TRUE" />
+    <File Path="SPCommon\SPControls\SPList\sp-list-form.js" Url="SPCommon/SPControls/SPList/sp-list-form.js" ReplaceContent="TRUE" />
+    <File Path="SPCommon\sp-common.js" Url="SPCommon/sp-common.js" ReplaceContent="TRUE" />
+    <File Path="App\route.js" Url="App/route.js" ReplaceContent="TRUE" />
+    <File Path="App\Pages\HomePageController.js" Url="App/Pages/HomePageController.js" ReplaceContent="TRUE" />
+    <File Path="App\Pages\Home.html" Url="App/Pages/Home.html" ReplaceContent="TRUE" />
+    <File Path="App\app.js" Url="App/app.js" ReplaceContent="TRUE" />
+  </Module>
+</Elements>
