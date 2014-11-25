@@ -10,22 +10,22 @@ Or you can use the NuGet package https://www.nuget.org/packages/AngularJsAndShar
 
 //REST Calls
 
-//Query List Items
+//Query List Items<br>
 spCommon.data.spListItem.Query('List Name')
 
-//Create List Item
+//Create List Item<br>
 spCommon.data.spListItem.Create('List Name')
 
-//Read List Item
+//Read List Item<br>
 spCommon.data.spListItem.Get('List Name', ItemId)
 
-//Update List Item
+//Update List Item<br>
 spCommon.data.spListItem.Update('List Name', Item)
 
-//Delete List Items
+//Delete List Items<br>
 spCommon.data.spListItem.Delete('List Name', ItemId)
 
-//Get User
+//Get User<br>
 spCommon.data.spUser.Get(IdOrName)
 
 ```html
